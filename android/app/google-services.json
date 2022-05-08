@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553176588450",
+    "project_id": "residence-app-o",
+    "storage_bucket": "residence-app-o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553176588450:android:dd520bc0b85b204d08b7fb",
+        "android_client_info": {
+          "package_name": "com.ola.residence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553176588450-q38n5abkhmf5r07euph61n58ptqm248n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivrExPGIoGZ7zsx9Uy7wr4Txt6qqj1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553176588450-q38n5abkhmf5r07euph61n58ptqm248n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
